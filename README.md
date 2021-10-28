@@ -1,0 +1,1 @@
+# Diciplina Linguagem de Programação - Intituto de Ciência e Tecnologia de Guarulhos - Prof. Prado. Na linguagem PHP.
